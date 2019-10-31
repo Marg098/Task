@@ -1,0 +1,3 @@
+cd C:\\result
+echo 'helo? world!' > hello.txt
+
