@@ -1,0 +1,12 @@
+C:\Users\Маргарита\source\repos\Square_Figures_Library\Square_Figures_Library\bin\Debug\Square_Figures_Library.dll
+C:\Users\Маргарита\source\repos\Square_Figures_Library\Square_Figures_Library\bin\Debug\Square_Figures_Library.pdb
+C:\Users\Маргарита\source\repos\Square_Figures_Library\Square_Figures_Library\obj\Debug\Square_Figures_Library.csprojAssemblyReference.cache
+C:\Users\Маргарита\source\repos\Square_Figures_Library\Square_Figures_Library\obj\Debug\Square_Figures_Library.csproj.CoreCompileInputs.cache
+C:\Users\Маргарита\source\repos\Square_Figures_Library\Square_Figures_Library\obj\Debug\Square_Figures_Library.dll
+C:\Users\Маргарита\source\repos\Square_Figures_Library\Square_Figures_Library\obj\Debug\Square_Figures_Library.pdb
+C:\Users\Маргарита\Documents\Square_Figures_Library\Square_Figures_Library\bin\Debug\Square_Figures_Library.dll
+C:\Users\Маргарита\Documents\Square_Figures_Library\Square_Figures_Library\bin\Debug\Square_Figures_Library.pdb
+C:\Users\Маргарита\Documents\Square_Figures_Library\Square_Figures_Library\obj\Debug\Square_Figures_Library.csproj.CoreCompileInputs.cache
+C:\Users\Маргарита\Documents\Square_Figures_Library\Square_Figures_Library\obj\Debug\Square_Figures_Library.dll
+C:\Users\Маргарита\Documents\Square_Figures_Library\Square_Figures_Library\obj\Debug\Square_Figures_Library.pdb
+C:\Users\Маргарита\Documents\Square_Figures_Library\Square_Figures_Library\obj\Debug\Square_Figures_Library.csprojAssemblyReference.cache
